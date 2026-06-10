@@ -1,0 +1,11 @@
+visual-scan-report/
+├── main.py
+├── scanner.py (if exists)
+├── report_generator.py (if exists)
+├── templates/
+│   └── report.html
+├── screenshots/
+│   └── report.png
+├── output/
+├── requirements.txt
+└── README.md
